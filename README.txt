@@ -20,7 +20,7 @@ All of the following models were made and textured in blender by myself
 	- brush
 	- chalk bag
 	- dude
-	- gaston colume
+	- gaston volume
 	- gaston hold
 	- hold 2
 	- mat.012 - mat.015 (the same model just copied and pasted 3 separate times)
