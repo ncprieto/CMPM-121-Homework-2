@@ -25,7 +25,6 @@ public class changeCameraScript : MonoBehaviour
 
 
     private void ChangeCamera(){
-        Debug.Log(click);
         EnableCamera(click);
         click += 1;
         if(click == 3){
