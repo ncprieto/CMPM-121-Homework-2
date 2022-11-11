@@ -28,10 +28,24 @@ All of the following models were made and textured in blender by myself
 	- start volume
 	- volume 2
 	- wall
-- firstPersonCamera (unity camera)
-- thirdPersonCamera (unity camera)
-- orthoCamera (unity camera with Cinemachine brain component)
-	- orthoVCAM (Cinemachine virtual camera)
-- orthoDollyTrack (Cinemachine dolly track)
-- orthoDollyCart (Cinemachine dolly cart)
-- changeCameraButton (empty gameObject that controls camera switching)
+	- Iphone
+		- Iphone
+		- Iphone screen (emissive material)
+- DayNightController
+- DustParticleSystem
+- Lights
+	- Sun (directional light)
+	- Head Lamp Light (spotlight)
+	- Flood Light 1 (point light)
+		- Flood Light Light
+		- Light Housing
+		- Sight
+	- Flood Light 2 (same as Flood Light 1)
+- Cameras
+	- firstPersonCamera (unity camera)
+	- thirdPersonCamera (unity camera)
+	- orthoCamera (unity camera with Cinemachine brain component)
+		- orthoVCAM (Cinemachine virtual camera)
+	- orthoDollyTrack (Cinemachine dolly track)
+	- orthoDollyCart (Cinemachine dolly cart)
+	- changeCameraButton (empty gameObject that controls camera switching)
