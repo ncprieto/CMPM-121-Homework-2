@@ -1,7 +1,7 @@
 CMPM 121-01
 Nathan Prieto
 David Abramov
-Homework 1
+Homework 2
 
 My scene features a low-poly version of a rock climbing wall that would be
 typically found indoors at a rock climbing gym. I was inspired by professional
